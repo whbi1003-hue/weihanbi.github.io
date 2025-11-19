@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a graduate student from the College of Transportation at Tongji University. I am fortunate to be advised by Associate Professor Yu Shen, Professor Yuxiong Ji and Professor Yuchuan Du. I work at Research Team for Smart Transport Emerging Computing and Perception (STEP Lab). I received my Bachelor’s degree in Transportation Engineering from Tongji University in 2023, and expect to receive my Master’s degree in Transportation Engineering in July, 2026.
+
 I have a passion for transportation and aim to explore how machine learning and optimization can help urban mobility systems learn and adapt under uncertainty.
 
 # 📖 Educations
