@@ -23,9 +23,9 @@ I have a passion for transportation and aim to explore how machine learning and 
 
 # 📖 Educations
 
-•	Master’s Degree in Transportation Engineering, Tongji University	09/2023–06/2026 (Expected)
+•	Master’s Degree in Transportation Engineering, Tongji University, 09/2023–06/2026 (Expected)
 
-•	Bachelor’s Degree in Traffic Engineering, Tongji University	09/2019–06/2023
+•	Bachelor’s Degree in Traffic Engineering, Tongji University, 09/2019–06/2023
 
 # 📝 Publications
 
@@ -49,10 +49,10 @@ I have a passion for transportation and aim to explore how machine learning and 
 
 # 💻 Internships & Professional Experiences
 
-•	MIT-UF-NEU 2025 Summer Camp  06/2025–10/2025
+•	MIT-UF-NEU 2025 Summer Camp, 06/2025–10/2025
 
-•	Shanghai Oriental Hub Investment and Development Co., Ltd  06/2024–Present
+•	Shanghai Oriental Hub Investment and Development Co., Ltd, 06/2024–Present
 
-•	Shanghai Hongqiao Hub Construction and Development Co., Ltd  04/2024–02/2025
+•	Shanghai Hongqiao Hub Construction and Development Co., Ltd, 04/2024–02/2025
 
-•	Shanghai Jiading Public Transport Co., Ltd  03/2022–05/2024
+•	Shanghai Jiading Public Transport Co., Ltd, 03/2022–05/2024
