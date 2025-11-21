@@ -29,6 +29,8 @@ I have a passion for transportation and aim to explore how machine learning and 
 
 # 📝 Publications
 
+## Journal Articles
+
 •	[Understanding the potential of urban air mobility in alleviating rail transit oversaturation: A divertible demand driven analysis. **W Bi**, Y Lyu, Y Shen, Y Ji, Y Du. Transportation Letters. 2025.](https://doi.org/10.1080/19427867.2025.2550486)
 
 •	[Who continued travelling by bus in different periods of COVID-19? A data-driven analysis from Shanghai, China. **W Bi**, Y Shen, Y Ji, Y Du. PLOS ONE. 2025.](https://doi.org/10.1371/journal.pone.0328700)
@@ -36,6 +38,10 @@ I have a passion for transportation and aim to explore how machine learning and 
 •	[Resource layout and operation optimization review of emergency medical service vehicles. Y Shen, **W Bi**, L Wang, Y Du. China Journal of Highway and Transport (中国公路学报, in Chinese). 2025.](https://doi.org/10.19721/j.cnki.1001-7372.2025.01.018)
 
 •	[The impacts of COVID-19 pandemic on bus transit demand: A 30-month Naturalistic Observation in Jiading, Shanghai, China. **W Bi**, Y Shen, Y Ji, Y Du. International Journal of Transportation Science and Technology. 2024.](https://doi.org/10.1016/j.ijtst.2024.04.012)
+
+•	[Analysis of key factors affecting human driver’s subjective and objective risk when interacting with autonomous vehicles. X Shi, C Chai, **W Bi**, X Zeng, S Ye, P Zhou, Y Li. International Journal of Human–Computer Interaction. 2025.](https://doi.org/10.1080/10447318.2025.2561761)
+
+## Conference Presentations
 
 •	[A deep reinforcement learning approach for airport ground ferry vehicle dispatch problem. X Wang, C Li, J Guo, Y Zheng, **W Bi (*)**, Y Shen. Transportation Research Board 105th Annual Meeting. 2026.](https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22806)
 
